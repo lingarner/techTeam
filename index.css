@@ -1,3 +1,20 @@
 h1 {
   color: orange;
 }
+body {
+  text-align: center;
+  /* justify-content: center; */
+}
+div {
+  background-color: darksalmon;
+  border: solid 3px aquamarine;
+  border-radius: 30px;
+  color: white;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
